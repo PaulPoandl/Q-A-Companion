@@ -18,4 +18,13 @@ For Linux and MacOS:
 
 Will come soon!
 
-# Social Media
+# Follow us on Social Media
+
+Instagram: https://www.instagram.com/aicommandhub
+
+Twitter: https://twitter.com/AICommandHub
+
+# Quellen
+
+Author: Paul Poandl/AI Command Hub
+Contact: Paul.Poandl@gmail.com/aicommandhub@gmail.com
