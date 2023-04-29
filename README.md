@@ -6,6 +6,16 @@ This program is a chatbot development tool with a built-in editor that allows yo
 
 # Download/Installation
 
-Google Drive: https://drive.google.com/file/d/1QxxBL6COH-ndgnPdnQ0xYVkyxdm3imqh/view?usp=sharing
+Click on one of the Links to download the Installation file:
 
-Dropbox: https://www.dropbox.com/s/u95vb2w3jistt8x/Q%26A%20Companion%20-%201.0%20-%20Installer.exe?dl=0
+For Windows 11/Windows 10/Windows 8/Windows 7:
+
+Google Drive: https://drive.google.com/file/d/1QxxBL6COH-ndgnPdnQ0xYVkyxdm3imqh/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+
+Dropbox: https://www.dropbox.com/s/u95vb2w3jistt8x/Q%26A%20Companion%20-%201.0%20-%20Installer.exe?dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+
+For Linux and MacOS:
+
+Will come soon!
+
+# Social Media
