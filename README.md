@@ -4,7 +4,7 @@
 
 This program is a chatbot development tool with a built-in editor that allows you to create your own chatbot and learn how chatbots work. It's a great tool for anyone interested in chatbot development or looking to improve their programming skills.
 
-# Download/Installation
+# Installation
 
 Click on one of the Links to download the Installation file:
 
@@ -26,4 +26,4 @@ Instagram: https://www.instagram.com/bytegroovelabs
 
 Author: Paul Poandl
 
-Contact: Paul.Poandl@gmail.com/bytegroovelabs@gmail.com
+Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
