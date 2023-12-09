@@ -8,7 +8,7 @@ This program is a chatbot development tool with a built-in editor that allows yo
 
 Click on one of the Links below to download the installation file, you can also choose the version you like:
 
-## Version 1
+## Version 1.0
 
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
