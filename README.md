@@ -19,6 +19,7 @@ Dropbox: https://www.dropbox.com/s/u95vb2w3jistt8x/Q%26A%20Companion%20-%201.0%2
 # Follow us on Social Media
 
 Instagram: https://www.instagram.com/bytegroovelabs
+Tik Tok: https://www.tiktok.com/@bytegkhaqn0
 
 # Source
 
