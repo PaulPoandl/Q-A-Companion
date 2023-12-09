@@ -20,11 +20,9 @@ Will come soon!
 
 # Follow us on Social Media
 
-Instagram: https://www.instagram.com/aicommandhub
+Instagram: https://www.instagram.com/bytegroovelabs
 
-Twitter: https://twitter.com/AICommandHub
+# Source
 
-# Quellen
-
-Author: Paul Poandl/AI Command Hub
-Contact: Paul.Poandl@gmail.com/aicommandhub@gmail.com
+Author: Paul Poandl
+Contact: Paul.Poandl@gmail.com/bytegroovelabs@gmail.com
