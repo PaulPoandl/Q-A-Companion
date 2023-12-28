@@ -1,18 +1,22 @@
 # Q&A-Companion
 
-![Q A Companion - Logo](https://user-images.githubusercontent.com/75140549/235306150-07abf8eb-7ec4-4214-88f5-c3a465526f28.png)
+![Unbenannt](https://github.com/PaulPoandl/Q-A-Companion/assets/75140549/27054bfb-2a70-4208-a10e-ff1e1030185c)
 
 This program is a chatbot development tool with a built-in editor that allows you to create your own chatbot and learn how chatbots work. It's a great tool for anyone interested in chatbot development or looking to improve their programming skills.
 
 # Installation
 
-Click on one of the Links below to download the installation file, you can also choose the version you like:
+To download the program, select the version that suits your needs from the links below. Each version is compatible with Windows 11, Windows 10, Windows 8, and Windows 7. You have two options for downloading: either as an executable file (.exe) from Google Drive or as source code from GitHub.
 
-## Version 1.0
+Please note, if you choose to download the source code, ensure that you have Python installed on your system, along with all the necessary modules required by the program. Additionally, you can convert the source code to an executable (.exe) file using PyInstaller. However, remember to update the script paths in the code from '.py' to '.exe' to ensure seamless interaction among the scripts in the executable format.
 
-For Windows 11/Windows 10/Windows 8/Windows 7:
+## Available Versions:
 
-Google Drive: https://drive.google.com/file/d/1XLTWOjnlRMsyAMysQrFUkct0ufseRi_5/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+#### Version 1.0
+- Google Drive (Executable file): [Download from Google Drive]( https://drive.google.com/file/d/1XLTWOjnlRMsyAMysQrFUkct0ufseRi_5/view?usp=sharing)  
+  (Note: Your computer might warn you about the executable file. If you have concerns, feel free to reach out to me at Paul.Poandl@gmail.com)
+
+Remember, if you download the source code from GitHub, ensure you have the proper Python environment and necessary modules installed to run the program successfully.
 
 # Follow us on Social Media
 
