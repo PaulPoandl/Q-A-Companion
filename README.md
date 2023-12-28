@@ -18,11 +18,16 @@ Please note, if you choose to download the source code, ensure that you have Pyt
 
 Remember, if you download the source code from GitHub, ensure you have the proper Python environment and necessary modules installed to run the program successfully.
 
-# Follow us on Social Media
+# Follow us on Social Media!
 
 Instagram: https://www.instagram.com/bytegroovelabs
 
+
 Tik Tok: https://www.tiktok.com/@bytegkhaqn0
+
+# Visit our Website!
+
+Link: https://aicommandhub2.wordpress.com
 
 # Source
 
